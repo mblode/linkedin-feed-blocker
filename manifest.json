@@ -1,8 +1,8 @@
 {
     "manifest_version": 2,
     "name": "LinkedIn Feed Blocker",
-    "version": "1.0",
-    "description": "Block news feed on LinkedIn",
+    "version": "1.0.1",
+    "description": "Block the news feed on LinkedIn",
     "icons": {
         "48": "icons/border-48.png",
         "96": "icons/border-96.png"
