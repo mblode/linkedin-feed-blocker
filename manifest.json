@@ -4,8 +4,9 @@
     "version": "1.0.2",
     "description": "Block the news feed on LinkedIn",
     "icons": {
-        "48": "/icons/border-48.png",
-        "96": "/icons/border-96.png"
+        "32": "icons/border-32.png",
+        "64": "icons/border-64.png",
+        "128": "icons/border-128.png"
     },
     "content_scripts": [
         {
